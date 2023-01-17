@@ -1,0 +1,61 @@
+/*Shulevka Kateryna*/
+.car-of-the-month {
+    background-color:#222;
+}
+
+.best-offer {
+    padding-top: 40px;
+    font-size: 20px;
+    color: rgb(247, 225, 34);
+    text-align: center;
+}
+
+.Cars-of-the-month {
+    font-weight: 600;
+    font-size: 42px;
+    color: #fff;
+    text-align: center;
+    padding-top: 25px;
+}
+.image-cars{
+    display: flex;
+    flex-direction: row-reverse;
+   
+   padding-left: 100px;
+
+}
+
+.paragraph-of-cars {
+    color: #898989;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.photo-of-cars {
+    padding-top: 25px;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 100px;
+width: 100%/3;
+height: 420px;
+}
+
+.name-of-cars {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.description-of-car {
+    color: #898989;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 85px;
+    
+}
+
