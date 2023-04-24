@@ -211,16 +211,16 @@ h2 {
     bottom: 0;
   }
 
-  .navigation-burger.active span {
+  .navigation-burger.active-burger span {
     transform: scale(0);
   }
 
-  .navigation-burger.active::before {
+  .navigation-burger.active-burger::before {
     top: 50%;
     transform: rotate(-45deg);
   }
 
-  .navigation-burger.active::after {
+  .navigation-burger.active-burger::after {
     bottom: 40%;
     transform: rotate(45deg);
   }
@@ -244,11 +244,11 @@ h2 {
     margin: auto;
   }
 
-  .navigation-wrapper.active {
+  .navigation-wrapper.active-burger {
     top: 0;
   }
 
-  .navigation.active {
+  .navigation.active-burger {
     top: 0;
   }
 
